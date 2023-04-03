@@ -2,7 +2,20 @@
 
 ---
 
-### Personal Projects
+### Data Science
+
+[Real estate price model](https://github.com/srapsons/data-science/blob/main/Real%20estate%20valuation%20models.ipynb)
+
+A project using linear regression to predict real estate prices.
+
+---
+[Classification of wine](https://github.com/srapsons/data-science/blob/main/Classfication%20of%20wine%20varieties.ipynb)
+
+A project using classification to predict wine varieties.
+
+---
+
+### Data Analysis
 
 [Tarkov Stats](https://lookerstudio.google.com/reporting/48487e3f-a374-45ac-a5e1-5b3f7edfabb6/page/p_l3ac62070c)
 
@@ -20,20 +33,3 @@ Me and my friends wanted a way to see how we did that wipe and if we had improve
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
