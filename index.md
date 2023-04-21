@@ -38,5 +38,6 @@ An independent project creating a dashboard using Looker Studio with data from G
 ### Training
 
 - [Python Introduction](https://app.dataquest.io/view_cert/6L67DC3GQH89JFA9I9VQ)
+- [Data Analysis and Visualisation with Python](https://app.dataquest.io/view_cert/H9BNFCI09AJS7K3T3F9M)
 - [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/db057afd7c60fe41e9d3f3c9541c65109d11bf87e65310c4591ea307a0a57eaa)
 - [Foundations of data science for machine learning](https://learn.microsoft.com/en-us/training/achievements/learn.machinelearning.machine-learning-foundations-using-data-science.trophy?username=StuartParsons-8021&sharingId=A496E4E24E52D5B9)
