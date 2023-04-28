@@ -22,6 +22,14 @@
 **Skills demonstrated:** Line charts, Bar charts, Histograms, Matplotlib  
 **Source:** dataquest.io, guided
 
+[Visualising euro exchange rates](https://github.com/srapsons/data-science/blob/07503b4d2121e4cd4f2ccc33d38853de9bc6311b/Visualising%20euro%20exchange%20rates.ipynb)  
+**Skills demonstrated:** Data story telling, Desgin principles, Matplotlib object-orientated interface  
+**Source:** dataquest.io, guided
+
+[Cleaning and analysing employee exit surveys](https://github.com/srapsons/data-science/blob/07503b4d2121e4cd4f2ccc33d38853de9bc6311b/Clean%20and%20analyse%20employee%20exit%20surveys.ipynb)  
+**Skills demonstrated:** Data cleaning  
+**Source:** dataquest.io, guided
+
 [Real estate valuation models](https://github.com/srapsons/data-science/blob/429ca6f9605f8c685b000d3153c14548db735879/Real%20estate%20valuation%20models.ipynb)  
 **Skills demonstrated:** Linear regression  
 **Source:** Microsoft Learn, unguided
