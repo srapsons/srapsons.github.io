@@ -35,7 +35,7 @@
 **Source:** dataquest.io, guided
 
 [Building a Spam Filter with Naive Bayes](https://github.com/srapsons/data-science/blob/6a7700c245414ded696dcf46e3fda51e0de189f7/Building%20a%20spam%20filter.ipynb)  
-**Skills demonstrated:** Conditional Probability, Naive Bayes 
+**Skills demonstrated:** Conditional Probability, Naive Bayes   
 **Source:** dataquest.io, guided  
 
 [Real estate valuation models](https://github.com/srapsons/data-science/blob/429ca6f9605f8c685b000d3153c14548db735879/Real%20estate%20valuation%20models.ipynb)  
