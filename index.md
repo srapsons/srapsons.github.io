@@ -53,6 +53,7 @@ An independent project creating a dashboard using Looker Studio with data from G
 
 ### Training
 
+- [Probability and Statistics with Python](https://app.dataquest.io/view_cert/I6ZE8BMRQPOPG32TDA6E)
 - [Python Introduction](https://app.dataquest.io/view_cert/6L67DC3GQH89JFA9I9VQ)
 - [Data Analysis and Visualisation with Python](https://app.dataquest.io/view_cert/H9BNFCI09AJS7K3T3F9M)
 - [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/db057afd7c60fe41e9d3f3c9541c65109d11bf87e65310c4591ea307a0a57eaa)
