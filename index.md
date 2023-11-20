@@ -3,7 +3,7 @@
 ### Data Science
 
 [Predicting Heart Disease](https://github.com/srapsons/data-science/blob/40718eea73d61faa8a26121a5559fc242f52212d/Predicting%20Heart%20Disease.ipynb)  
-**Skills demonstrated:** KNeighborsClassifier, Feature engineering, Hyperparameter tuning
+**Skills demonstrated:** KNeighborsClassifier, Feature engineering, Hyperparameter tuning  
 **Source:** dataquest.io, guided 
 
 [Real estate valuation models](https://github.com/srapsons/data-science/blob/429ca6f9605f8c685b000d3153c14548db735879/Real%20estate%20valuation%20models.ipynb)  
