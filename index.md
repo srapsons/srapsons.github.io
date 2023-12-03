@@ -2,6 +2,10 @@
 
 ### Data Science
 
+[Credit Card Customer Segmentation](https://github.com/srapsons/data-science/blob/9d0d7e0a5d7501c88d4274ea247511ac81f82b9b/Customer%20credit%20card%20segmentation.ipynb)  
+**Skills demonstrated:** KMeans cluster, Unsupervised machine learning, Analysing results  
+**Source:** dataquest.io, guided 
+
 [Predicting Heart Disease](https://github.com/srapsons/data-science/blob/40718eea73d61faa8a26121a5559fc242f52212d/Predicting%20Heart%20Disease.ipynb)  
 **Skills demonstrated:** KNeighborsClassifier, Feature engineering, Hyperparameter tuning  
 **Source:** dataquest.io, guided 
