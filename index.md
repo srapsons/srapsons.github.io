@@ -2,6 +2,10 @@
 
 ### Data Science
 
+[Insurance Cost Prediction](https://github.com/srapsons/data-science/blob/c0c6fa7645eb4aa32701054f7e574c7b7864d930/Predicting%20Insurance%20Costs.ipynb)  
+**Skills demonstrated:** Linear regression, Residual diagnostics, Model interpretation  
+**Source:** dataquest.io, guided 
+
 [Credit Card Customer Segmentation](https://github.com/srapsons/data-science/blob/9d0d7e0a5d7501c88d4274ea247511ac81f82b9b/Customer%20credit%20card%20segmentation.ipynb)  
 **Skills demonstrated:** KMeans cluster, Unsupervised machine learning, Analysing results  
 **Source:** dataquest.io, guided 
