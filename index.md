@@ -34,26 +34,6 @@
 **Skills demonstrated:** Probability, Combinations and Permutations  
 **Source:** dataquest.io, guided
 
-[Cleaning and analysing employee exit surveys](https://github.com/srapsons/data-science/blob/07503b4d2121e4cd4f2ccc33d38853de9bc6311b/Clean%20and%20analyse%20employee%20exit%20surveys.ipynb)  
-**Skills demonstrated:** Data cleaning  
-**Source:** dataquest.io, guided
-
-[Mobile app profiling](https://github.com/srapsons/data-science/blob/2d53ec8fb8636e5070633dc163ffdecc70da3ea7/Mobile%20app%20profiling.ipynb)  
-**Skills demonstrated:** Defining Functions, Working with strings  
-**Source:** dataquest.io, guided 
-
-[Exploring hacker news posts](https://github.com/srapsons/data-science/blob/2d53ec8fb8636e5070633dc163ffdecc70da3ea7/Exploring%20Hacker%20News%20posts.ipynb)  
-**Skills demonstrated:** Dictionaries, Frequency tables  
-**Source:** dataquest.io, guided 
-
-[Exploring eBay car adverts](https://github.com/srapsons/data-science/blob/2d53ec8fb8636e5070633dc163ffdecc70da3ea7/Exploring%20Car%20Ads%20on%20eBay.ipynb)  
-**Skills demonstrated:** Series, Dataframes, Numpy, Pandas  
-**Source:** dataquest.io, guided 
-
-[Traffic volume visualisation](https://github.com/srapsons/data-science/blob/0de752734f03f3216ccfa8d39813fca87299352e/I-94%20traffic%20visualisation.ipynb)  
-**Skills demonstrated:** Line charts, Bar charts, Histograms, Matplotlib  
-**Source:** dataquest.io, guided
-
 [Visualising euro exchange rates](https://github.com/srapsons/data-science/blob/07503b4d2121e4cd4f2ccc33d38853de9bc6311b/Visualising%20euro%20exchange%20rates.ipynb)  
 **Skills demonstrated:** Data story telling, Desgin principles, Matplotlib object-orientated interface  
 **Source:** dataquest.io, guided
