@@ -2,6 +2,14 @@
 
 ### Data Science
 
+[Prediciting Employee Productivity Using Decision Trees](https://github.com/srapsons/data-science/blob/5b3ea3ea46af9631c9ff6debf0f56e31fba5628c/Predicitng%20Employee%20Productivity.ipynb)  
+**Skills demonstrated:** Decision Trees, Cross Validation, Explanation to non-technical audience, Random Forest  
+**Source:** dataquest.io, guided 
+
+[Classifying Heart Disease With Logistic Regression](https://github.com/srapsons/data-science/blob/5b3ea3ea46af9631c9ff6debf0f56e31fba5628c/Classifying%20heart%20disease%20with%20logistic%20regression.pynb.ipynb)  
+**Skills demonstrated:** Logistic regression  
+**Source:** dataquest.io, guided 
+
 [Insurance Cost Prediction](https://github.com/srapsons/data-science/blob/c0c6fa7645eb4aa32701054f7e574c7b7864d930/Predicting%20Insurance%20Costs.ipynb)  
 **Skills demonstrated:** Linear regression, Residual diagnostics, Model interpretation  
 **Source:** dataquest.io, guided 
