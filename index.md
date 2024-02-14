@@ -2,6 +2,14 @@
 
 ### Data Science
 
+[Building A Handwritten Digits Classifier](https://github.com/srapsons/data-science/blob/ecf9c37327b923844eb2a95fc7b84ca3344872bf/Building%20a%20handwritten%20digits%20classifier.ipynb)  
+**Skills demonstrated:** Image Classification, Deep  Neural Networks   
+**Source:** dataquest.io, guided 
+
+[Optimising Model Prediction](https://github.com/srapsons/data-science/blob/ecf9c37327b923844eb2a95fc7b84ca3344872bf/Optimising%20model%20prediction.ipynb)  
+**Skills demonstrated:** Feature Selection, Regularisation, Cross Validation  
+**Source:** dataquest.io, guided 
+
 [Prediciting Employee Productivity Using Decision Trees](https://github.com/srapsons/data-science/blob/5b3ea3ea46af9631c9ff6debf0f56e31fba5628c/Predicitng%20Employee%20Productivity.ipynb)  
 **Skills demonstrated:** Decision Trees, Cross Validation, Explanation to non-technical audience, Random Forest  
 **Source:** dataquest.io, guided 
